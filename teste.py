@@ -1,0 +1,2 @@
+soma="desa"
+print(soma)
